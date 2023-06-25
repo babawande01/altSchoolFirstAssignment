@@ -1,0 +1,774 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Gilroy-medium';
+}
+
+
+#header {
+    width: 1440px;
+    height: 1024px;
+    top: 0px;
+    left: 0px;
+    background-color: #ffffff;
+    background: #eae6e6;
+    position: relative;
+
+}
+
+.navbar {
+    width: Hug (1, 150px);
+    height: Hug (44px);
+    top: 12px;
+    left: 50px;
+    gap: 100px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.navbar .logo {
+    /* width: Hug (155px);
+    height: Hug (40px); */
+    padding: 20px 24px 20px 24px;
+    gap: 8px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+
+}
+
+a.scissor {
+    width: 99px;
+    height: 24px;
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 24px;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: none;
+    color: blue;
+}
+
+.navList {
+    width: Hug (504px);
+    height: Hug (24px);
+    gap: 20px;
+    padding: 25px 24px 1px 24px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.navList a {
+    text-decoration: none;
+    gap: 20px;
+    color: black;
+    font-family: 'Gilroy-Medium', sans-serif;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.navList a.myUrls {
+    color: blue;
+}
+
+.navList a select {
+    border: none;
+    background: #eae6e6;
+}
+
+.loginFrame {
+    width: Hug (211px);
+    height: Hug (44px);
+    gap: 24px;
+    padding: 11px;
+    display: flex;
+}
+
+.loginFrame a {
+    text-decoration: none;
+    padding: 12px 24px 12px 24px;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #0065FE;
+
+}
+
+.loginFrame button {
+    width: Fixed (142px);
+    height: Fixed (44px);
+    padding: 12px 24px 12px 24px;
+    border-radius: 100px;
+    gap: 10px;
+    background: #0065FE;
+    color: #ffffff;
+    border: none;
+}
+
+.headingTitle {
+    width: Hug (948px);
+    height: Hug (389px);
+    top: 50px;
+    left: 300px;
+    gap: 32px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.headingText {
+    width: Hug (948px);
+    height: Hug (313px);
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 751px;
+
+}
+
+.headingText p {
+    width: 781px;
+    height: 105px;
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-left: 110px;
+}
+
+.group1 {
+    width: 948px;
+    height: 200px;
+}
+
+.group1 h1 {
+    font-family: 'Gilroy-Bold', 'kaint';
+    font-size: 48px;
+    line-height: 96px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 948px;
+    height: 200px;
+
+}
+
+.group1 span {
+    color: #0065FE;
+}
+
+.vector3 {
+    margin: -24px;
+    margin-left: 401px;
+}
+
+.headingText p {
+    width: 781px;
+    height: 105px;
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.headingSignUp {
+    width: Hug (282px);
+    height: Hug (44px);
+    gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -25rem;
+    padding-bottom: 8rem;
+}
+
+.headingSignUp button {
+    width: Fixed (142px);
+    height: Fixed (44px);
+    padding: 12px 50px 12px 50px;
+    border-radius: 100px;
+    gap: 10px;
+    background-color: #0065FE;
+    color: #ffffff;
+}
+
+.learnMore {
+    text-decoration: none;
+    color: #0065FE;
+}
+
+.group2 {
+    width: 833px;
+    height: 336.57px;
+    top: 0px;
+    left: 400px;
+    border-radius: 24px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.group2Vector2 {
+    width: 238.55px;
+    height: 251.20px;
+    top: 725.63px;
+    left: 369px;
+}
+
+.group2Frame {
+    margin-top: -15rem;
+    padding: 2.8rem;
+    background-color: #e2e9f0e9;
+    border-radius: 20px;
+}
+
+.group2Frame p {
+    max-width: 648px;
+    height: 48px;
+    font-family: 'Gilroy-Medium';
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-left: 130px;
+    padding-right: 230px;
+}
+
+.group3 {
+    width: 1440px;
+    height: 93px;
+    top: 0px;
+    position: relative;
+
+}
+
+#desktop_10 {
+    width: 1440px;
+    height: 982px;
+    top: 0px;
+    left: 0px;
+    padding: 0px 0px 1px 0px;
+    gap: 10px;
+    background: #FFFFFF;
+    position: relative;
+
+}
+
+.achievement {
+    width: Hug (1, 446px);
+    height: Hug (220px);
+    left: -3px;
+    padding: 60px 140px 60px 140px;
+    gap: 120px;
+    background: #F9FBFD;
+    display: flex;
+}
+
+.achievementTitle {
+    font-family: 'Gilroy-Medium';
+    font-size: 25px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.possibilities {
+    color: #005AE2;
+}
+
+.achievementDescription {
+    display: flex;
+    width: Hug (709px);
+    height: Hug (100px);
+    gap: 72px;
+
+}
+
+.activeUsers,
+.lineQrCode,
+.clickedScan,
+.applyIntegration {
+    font-family: 'Gilroy-Medium';
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    max-width: 140px;
+}
+
+.sicssorsDescription {
+    width: Hug (1, 202.1px);
+    height: Hug (504px);
+    top: 348px;
+    left: 120px;
+    gap: 96px;
+    display: flex;
+    padding: 5rem;
+    border: 2px solid green;
+    font-family: 'Gilroy-Medium';
+}
+
+.whyScissors {
+    width: Hug (398.1px);
+    height: Hug (256px);
+    gap: 16px;
+    max-width: 500px;
+}
+
+.whyScissorsHeading {
+    display: flex;
+    width: Hug (398.1px);
+    height: Hug (48px);
+    gap: 16px;
+    font-family: 'Gilroy-Bold';
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 382px;
+    height: 32px;
+}
+
+.whyScissorsTitle span {
+    color: #005AE2;
+}
+
+.whyScissorsParagraph {
+    font-family: 'Gilroy-Medium';
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    max-width: 500px;
+    height: 192px;
+    padding: 25px;
+}
+
+.fourWayScissors {
+    font-family: 'Gilroy-Medium';
+    display: flex;
+    width: Hug (708px);
+    height: Hug (504px);
+    gap: 64px;
+}
+
+.firstTwoFirst h2,
+.secondTwoFirst h2 {
+    padding: 20px 0px;
+    font-family: 'Gilroy-Medium';
+    font-size: 32px;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.firstTwoSecond,
+.secondTwoSecond {
+    padding-top: 6rem;
+}
+
+.firstTwoSecond h2,
+.secondTwoSecond h2 {
+    padding: 20px 0px;
+    font-family: 'Gilroy-Medium';
+    font-size: 32px;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.firstTwoFirst p,
+.firstTwoSecond p,
+.secondTwoFirst p,
+.secondTwoSecond p {
+    font-family: 'Gilroy-Medium';
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+#desktop_1 {
+    width: 1440px;
+    height: 1073px;
+    top: -802px;
+    left: 0px;
+    padding: 42px 0px 112px 17px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+
+.aboutPrice {
+    width: Hug (576.1px);
+    height: Hug (108px);
+    top: 42px;
+    left: 411px;
+    gap: 16px;
+    max-width: 500px;
+    max-height: 100px;
+    position: relative;
+}
+
+.priceHeading {
+    display: flex;
+    gap: 10px;
+    font-family: 'Gilroy-Medium';
+    font-size: 30px;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: center;
+    left: 6px;
+    position: relative;
+    padding-left: 2px;
+
+}
+
+.priceParagraph {
+    padding-left: 2px;
+    font-family: 'Gilroy-Medium';
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.subcriptionPackage {
+    display: flex;
+    width: 1088px;
+    height: 627px;
+    top: 279px;
+    left: 100px;
+    border-radius: 12px;
+    position: relative;
+
+}
+
+.packageBasic {
+    width: 379px;
+    height: 455px;
+    top: 304px;
+    left: 176px;
+    padding: 24px 30px 45px 87px;
+    border-radius: 12px;
+    border: 2.4px;
+    box-shadow: 0px 4px 8px 0px #0000000D;
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF),
+        linear-gradient(0deg, #005AE2, #005AE2);
+
+}
+
+.packageProfessional {
+    width: 404px;
+    height: 467px;
+    top: -75px;
+    left: 0px;
+    position: relative;
+    padding: 100px 39px 101px 87px;
+    border-radius: 12px;
+    border: 2.4px;
+    box-shadow: 0px 4px 8px 0px #0000000D;
+    color: #FFFFFF;
+    background: linear-gradient(180deg, #1E3448 99.99%, rgba(30, 52, 72, 0) 100%);
+
+}
+
+.packageTeams {
+    width: 379px;
+    height: 455px;
+    top: 304px;
+    left: 176px;
+    padding: 24px 47px 45px 57px;
+    border-radius: 12px;
+    border: 2.4px;
+    box-shadow: 0px 4px 8px 0px #0000000D;
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF),
+        linear-gradient(0deg, #005AE2, #005AE2);
+
+}
+
+.package {
+    display: flex;
+    gap: 5px;
+    padding: 20px 5px 20px 0px;
+}
+
+.subcriptionButtons {
+    width: Hug (412px);
+    height: Hug (48px);
+    top: 300px;
+    left: 500px;
+    gap: 12px;
+    position: relative;
+
+}
+
+.selectPricing {
+    width: Fixed (200px);
+    height: Fixed (48px);
+    padding: 12px 24px 12px 24px;
+    border-radius: 100px;
+    border: 1px;
+    gap: 10px;
+    border: 1px solid #0065FE;
+    background: #0065FE;
+    color: #FFFFFF;
+}
+
+.getCostomerPricing {
+    width: Fixed (200px);
+    height: Fixed (48px);
+    padding: 12px 24px 12px 24px;
+    border-radius: 100px;
+    border: 1px;
+    gap: 10px;
+    color: #0065FE;
+    background-color: #FFFFFF;
+    border: 1px solid #0065FE
+}
+
+#desktop_11 {
+    width: 1440px;
+    height: 523px;
+    top: -600px;
+    left: 0px;
+    position: relative;
+    background: linear-gradient(180deg, #1E3448 99.99%, rgba(30, 52, 72, 0) 100%);
+}
+
+.urlLogo2 {
+    width: 985.8995398631453px;
+    height: 1606.4670470939893px;
+    top: -1194.4756164550781px;
+    left: 3.2314453125px;
+    position: relative;
+
+
+}
+
+.urlLogo1 {
+    width: 1272.5979041360124px;
+    height: 1196.9831578197204px;
+    top: 0px;
+    left: 512px;
+    position: relative;
+
+}
+
+.urlShorting {
+    width: 476px;
+    height: 250px;
+    top: -2720.5px;
+    left: 482px;
+    padding: 34px;
+    border-radius: 12px;
+    position: relative;
+    background: #FFFFFF;
+}
+
+.urlShorting p {
+    color: #005AE2;
+    margin-top: 10px;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+input[type=text1],
+#domain {
+    width: 49.5%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 8px;
+
+}
+
+.trim {
+    width: 100%;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    background-color: #005AE2;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 20px;
+}
+
+#faqs {
+    width: 1440px;
+    height: 1153px;
+    top: -400px;
+    left: 0px;
+    position: relative;
+    display: flex;
+}
+
+.faqsTitle {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+
+.faqsHeading {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+
+.faqsLogo2 {
+    width: 804px;
+    height: 596px;
+    top: 715px;
+    left: 0px;
+    position: relative;
+}
+
+#frame_1000001649 {
+    width: 1440px;
+    height: 299px;
+    top: -400px;
+    left: 0px;
+    position: relative;
+    background: linear-gradient(180deg, #1E3448 99.99%, rgba(30, 52, 72, 0) 100%);
+
+}
+
+#getStarted {
+    width: Hug (806px);
+    height: Hug (137px);
+    top: 109px;
+    left: 0px;
+    gap: 32px;
+    position: relative;
+    text-align: center;
+    color: #F9FBFD;
+}
+
+.getStarted {
+    width: Fixed (200px);
+    height: Fixed (48px);
+    padding: 12px 24px 12px 24px;
+    border-radius: 100px;
+    gap: 10px;
+    background: #005AE2;
+    color: white;
+    margin-top: 20px;
+}
+
+.getStartedLogo1 {
+    width: 666.9205341893787px;
+    height: 757.8813498867733px;
+    top: -90px;
+    left: -9px;
+    position: relative;
+}
+
+.getStartedLogo2 {
+    width: 804.5288116378332px;
+    height: 596.1376365329405px;
+    top: -849px;
+    left: 861px;
+    position: relative;
+}
+
+#footer {
+    width: 1440px;
+    height: 561px;
+    top: -300px;
+    left: 0px;
+    position: relative;
+    background: #FFFFFF;
+    display: flex;
+}
+
+.socialLinks {
+    width: Hug (184px);
+    height: Hug (96px);
+    top: 70px;
+    left: -350px;
+    gap: 32px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.otherLinks {
+    width: Hug (812px);
+    height: Hug (384px);
+    top: 0px;
+    left: -300px;
+    gap: 24px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px;
+    align-content: center;
+}
+
+.linkCard {
+    gap: 20px;
+    padding: 20px 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+.copyRight {
+    width: Hug (296px);
+    height: Hug (20px);
+    top: -400px;
+    left: 1000px;
+    padding: 0px 12px 0px 12px;
+    gap: 8px;
+    position: relative;
+    display: flex;
+}
+
+.footerLogo2 {
+    width: 804.5288232659522px;
+    height: 0px;
+    top: 157px;
+    left: -464px;
+
+    position: relative;
+
+}
+
+.footerLogo1 {
+    width: 804.5289327564539px;
+    height: 596.1376968629146px;
+    top: 0px;
+    left: 0px;
+    position: relative;
+}

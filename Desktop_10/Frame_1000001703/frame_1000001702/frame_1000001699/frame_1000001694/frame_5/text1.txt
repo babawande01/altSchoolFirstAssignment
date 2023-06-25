@@ -1,0 +1,12 @@
+width: 226px
+height: 28px
+
+URL Shortening
+
+font-family: Gilroy-SemiBold;
+font-size: 32px;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+background: #141414;

@@ -1,0 +1,12 @@
+width: 370px
+height: 192px
+
+Scissors is the hub of everything that has to do with your link management. We shorten your URLs, allow you creating custom ones for your personal, business, event usage. Our swift QR code creation, management and usage tracking with advance analytics for all of these is second to none. 
+
+font-family: Gilroy-Medium;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+background: #141414;

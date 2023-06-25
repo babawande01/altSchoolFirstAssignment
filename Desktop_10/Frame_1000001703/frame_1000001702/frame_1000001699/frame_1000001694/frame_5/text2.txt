@@ -1,0 +1,12 @@
+width: 340px
+height: 80px
+
+Scissor allows you to shorten URLs of your business, events. Shorten your URL at scale, URL redirects.
+
+font-family: Gilroy-Medium;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+background: #141414;

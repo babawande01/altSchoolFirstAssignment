@@ -1,0 +1,16 @@
+width: 193px
+height: 28px
+
+Custom URLs
+
+font-family: Gilroy-SemiBold;
+font-size: 32px;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+font-family: Gilroy-SemiBold;
+font-size: 32px;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
