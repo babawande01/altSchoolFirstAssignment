@@ -8,6 +8,18 @@
     font-family: 'Gilroy-medium';
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
 
 #header {
     width: 1440px;
@@ -313,7 +325,6 @@ a.scissor {
     gap: 96px;
     display: flex;
     padding: 5rem;
-    border: 2px solid green;
     font-family: 'Gilroy-Medium';
 }
 
@@ -404,7 +415,7 @@ a.scissor {
     width: 1440px;
     height: 1073px;
     top: -802px;
-    left: 0px;
+    left: 50px;
     padding: 42px 0px 112px 17px;
     background: #FFFFFF;
     display: flex;
@@ -748,7 +759,7 @@ ul {
     width: Hug (296px);
     height: Hug (20px);
     top: -400px;
-    left: 1000px;
+    left: 380px;
     padding: 0px 12px 0px 12px;
     gap: 8px;
     position: relative;
