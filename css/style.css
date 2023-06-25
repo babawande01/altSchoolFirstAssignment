@@ -26,9 +26,11 @@ body {
     height: 1024px;
     top: 0px;
     left: 0px;
-    background-color: #ffffff;
-    background: #eae6e6;
+    /* background-color: #ffffff; */
+    /* background: #fbf8f8; */
     position: relative;
+    background: linear-gradient(to top right, #ffffff 40%, rgba(238, 249, 222, 0.881) 90%);
+
 
 }
 
@@ -94,7 +96,7 @@ a.scissor {
 
 .navList a select {
     border: none;
-    background: #eae6e6;
+    background: #fbf8f8;
 }
 
 .loginFrame {
@@ -232,15 +234,20 @@ a.scissor {
 .group2Vector2 {
     width: 238.55px;
     height: 251.20px;
-    top: 725.63px;
-    left: 369px;
+    top: 0px;
+    left: 14px;
+    
+    
 }
 
 .group2Frame {
     margin-top: -15rem;
     padding: 2.8rem;
-    background-color: #e2e9f0e9;
+    background: linear-gradient(to right, #e2e9f0 15%, 60%, rgba(238, 249, 222, 0.074) 85%);
     border-radius: 20px;
+    border: 0.5px solid #bed3f3c4;
+    z-index: 1;
+    position: relative;
 }
 
 .group2Frame p {
